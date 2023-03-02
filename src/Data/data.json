@@ -1,0 +1,35 @@
+{
+    "movies": [
+        {
+          "id": 1,
+          "name": "Black Panther: Wakanda Forever",
+          "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Puss in Boots: The Last Wish",
+          "poster_path": "/2g9ZBjUfF1X53EinykJqiBieUaO.jpg"
+        },
+        {
+          "name": "Shotgun Wedding",
+          "poster_path": "/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
+          "id": 3
+        },
+        {
+          "name": "M3GAN",
+          "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+          "id": 4
+        },
+        {
+          "name": "Transfusion",
+          "poster_path": "/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg",
+          "id": 5
+        },
+        {
+            "name": "Detective Knight: Independence",
+            "poster_path": "/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
+            "id": 6
+          }
+
+      ]
+}
